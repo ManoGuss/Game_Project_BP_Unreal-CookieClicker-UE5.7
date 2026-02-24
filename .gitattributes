@@ -3,4 +3,6 @@
 
 content/** filter=lfs diff=lfs merge=lfs -text
 
+content/gugupastateste/** filter=lfs diff=lfs merge=lfs -text
+
 #content/static/** filter=lfs diff=lfs merge=lfs -text
